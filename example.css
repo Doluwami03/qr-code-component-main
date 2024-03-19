@@ -1,9 +1,0 @@
-h1{
-    font-size: 40px; color: red;
-}
-a{
-    color: rgba(99, 87, 0,0.75);
-}
-.ire + h1 {
-background-color: rgb(102, 194, 255);
-}
