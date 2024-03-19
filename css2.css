@@ -1,0 +1,32 @@
+td{
+    background-color:  black;
+    height: 200px;
+    width: 100px;
+ 
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 19px;
+    text-align: center;
+}
+
+#five{
+    background-color: blue;
+}
+#one{
+    background-color: blueviolet;
+}
+#two{
+    background-color: aquamarine;
+}
+#three{
+    background-color:palevioletred;
+}
+#four{
+    background-color: brown;
+}
+tr{
+    margin: auto;
+}
